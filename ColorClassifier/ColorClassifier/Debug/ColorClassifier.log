@@ -1,0 +1,3 @@
+﻿  FunctionHandler.cpp
+E:\ColorClassifier\ColorClassifier\ColorClassifier\FunctionHandler.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+  ColorClassifier.vcxproj -> E:\ColorClassifier\ColorClassifier\Debug\ColorClassifier.exe

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>E:\ColorClassifier\ColorClassifier\ColorClassifier\</FILEPATH>
+      <FILENAME>Breeder.cpp</FILENAME>
+      <LINE>38</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scored_organism::score' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scored_organism::{ctor}</FUNCTION>
+    <DECORATED>??0scored_organism@@QAE@XZ</DECORATED>
+    <FUNCLINE>38</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>scored_organism::score</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
